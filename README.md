@@ -1,36 +1,155 @@
-<h1 align="center">Hi 👋, I'm HARINI</h1>
-<h3 align="center">A passionate frontend developer!</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Harini;Frontend+Developer;AI+Enthusiast;Cloud+%26+DevOps+Learner" alt="Typing SVG" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harini007m&label=Profile%20views&color=0e75b6&style=flat" alt="harini007m" /> </p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harini007m" alt="harini007m" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+## 🚀 About Me
 
-- 🔭 I’m currently working on **SMART POLICING AI**
+```javascript
+const harini = {
+    pronouns: "she/her",
+    location: "India 🇮🇳",
+    currentFocus: "Smart Policing AI 🤖",
+    learning: ["Cloud Computing ☁️", "DevOps 🔧", "AI/ML 🧠"],
+    lookingFor: "Exciting frontend projects & backend collaborators",
+    askMeAbout: ["Python", "Web Development", "AI", "Open Source"],
+    funFact: "I turn coffee ☕ into code and ideas into reality ✨"
+};
+```
 
-- 🌱 I’m currently learning **Cloud and DevOps**
+---
 
-- 👯 I’m looking to collaborate on **interesting frontend projects**
+## 🔥 Current Projects & Interests
 
-- 🤝 I’m looking for help with **Backend developers**
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-- 📝 I regularly write articles on [https://medium.com/@harinimgb/smart-policing-system-d81caeb14b43](https://medium.com/@harinimgb/smart-policing-system-d81caeb14b43)
+### 🔭 Currently Working On
+**SMART POLICING AI**
+> Developing AI-powered solutions for modern policing systems
+> 
+> [📖 Read my article](https://medium.com/@harinimgb/smart-policing-system-d81caeb14b43)
 
-- 💬 Ask me about **Python | HTML-CSS | MySQL |C++/C**
+</td>
+<td align="center" width="50%">
 
-- 📫 How to reach me **harinimgb@gmail.com**
+### 🌱 Learning Journey
+**Cloud & DevOps**
+> Expanding skills in:
+> - Cloud Architecture
+> - CI/CD Pipelines
+> - Container Technologies
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/harini-m-aa6a78315?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harini-m-aa6a78315?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 Let's Collaborate!
+
+<div align="center">
+
+| 🤝 **Looking to Collaborate** | 🆘 **Seeking Help With** |
+|:---:|:---:|
+| Frontend Projects | Backend Development |
+| Open Source Contributions | System Architecture |
+| AI/ML Applications | DevOps Implementation |
+
+</div>
+
+---
+
+## 🛠️ Tech Arsenal
+
+### Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,java,cpp,c" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### Frontend Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,figma" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harini007m&show_icons=true&locale=en&layout=compact" alt="harini007m" /></p>
+### Backend & Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,mysql,mongodb" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harini007m&show_icons=true&locale=en" alt="harini007m" /></p>
+### AI/ML & Data Science
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="48" height="48"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="48" height="48"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harini007m&" alt="harini007m" /></p>
+### DevOps & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,jenkins,git,linux" />
+</p>
+
+### Data Visualization
+<p align="center">
+  <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="48" height="48"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=harini007m&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=harini007m&layout=compact&langs_count=8&theme=algolia"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harini007m&theme=algolia" alt="harini007m" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harini007m&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harini-m-aa6a78315)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harinimgb@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@harinimgb)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harini007m)
+
+</div>
+
+---
+
+## 📈 Profile Views & Activity
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=harini007m&label=Profile%20views&color=2E9EF7&style=for-the-badge" alt="harini007m" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+</div>
+
+---
+
+<div align="center">
+  <h3>💫 "Code is poetry written in logic" 💫</h3>
+  <p><i>Always learning, always growing, always coding! 🚀</i></p>
+</div>
