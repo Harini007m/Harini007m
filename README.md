@@ -10,17 +10,81 @@
 
 ## 🚀 About Me
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 👩‍💻 **The Developer**
 ```javascript
 const harini = {
-    pronouns: "she/her",
-    location: "India 🇮🇳",
-    currentFocus: "Smart Policing AI 🤖",
-    learning: ["Cloud Computing ☁️", "DevOps 🔧", "AI/ML 🧠"],
-    lookingFor: "Exciting frontend projects & backend collaborators",
-    askMeAbout: ["Python", "Web Development", "AI", "Open Source"],
-    funFact: "I turn coffee ☕ into code and ideas into reality ✨"
+    role: "Frontend Developer",
+    passion: "Building user-centric solutions",
+    mission: "Bridging AI and real-world problems",
+    currentProject: "Smart Policing AI 🚔",
+    nextGoal: "Full-stack AI applications"
 };
 ```
+
+</td>
+<td align="center" width="50%">
+
+### 🎯 **The Innovator**
+```python
+class Harini:
+    def __init__(self):
+        self.location = "India 🇮🇳"
+        self.mindset = "Growth-oriented"
+        self.believes_in = "Code with purpose"
+        self.drives_by = "Impact over perfection"
+    
+    def current_focus(self):
+        return ["AI Ethics", "User Experience", 
+                "Scalable Solutions"]
+```
+
+</td>
+</tr>
+</table>
+
+### 🌟 **My Journey**
+
+<div align="left">
+
+> **"Passionate about creating technology that makes a difference"**
+
+🔥 **What drives me:** I believe technology should solve real-world problems. Currently channeling this passion into developing AI solutions for smart policing systems that can enhance public safety while ensuring ethical practices.
+
+💡 **My approach:** I combine technical expertise with user-centric design thinking. Whether it's crafting intuitive frontend interfaces or diving deep into AI algorithms, I always ask: "How can this make someone's life better?"
+
+🚀 **Always evolving:** Currently expanding my horizons into Cloud Computing and DevOps because I believe in building not just beautiful applications, but scalable, reliable systems that can grow with user needs.
+
+</div>
+
+### 📚 **Learning Philosophy**
+<div align="center">
+
+| 🧠 **Mindset** | 🎯 **Focus Areas** | 🤝 **Collaboration** |
+|:---:|:---:|:---:|
+| Growth over perfection | AI Ethics & Implementation | Open source contributions |
+| User-first thinking | Scalable architecture | Cross-functional teamwork |
+| Continuous learning | Modern web technologies | Knowledge sharing |
+
+</div>
+
+### 💬 **Let's Talk About**
+<div align="center">
+  
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)](#)
+[![AI/ML](https://img.shields.io/badge/-AI/ML-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)](#)
+[![Web Dev](https://img.shields.io/badge/-Web%20Development-61DAFB?style=flat-square&logo=React&logoColor=black)](#)
+[![Cloud](https://img.shields.io/badge/-Cloud%20Computing-4285F4?style=flat-square&logo=Google-Cloud&logoColor=white)](#)
+[![Open Source](https://img.shields.io/badge/-Open%20Source-green?style=flat-square&logo=GitHub&logoColor=white)](#)
+
+</div>
 
 ---
 
