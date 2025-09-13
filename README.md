@@ -19,32 +19,26 @@
 <td align="center" width="50%">
 
 ### 👩‍💻 **The Developer**
-```javascript
-const harini = {
-    role: "Frontend Developer",
-    passion: "Building user-centric solutions",
-    mission: "Bridging AI and real-world problems",
-    currentProject: "Smart Policing AI 🚔",
-    nextGoal: "Full-stack AI applications"
-};
-```
+
+    ROLE: Frontend Developer
+    PASSION: Building user-centric solutions
+    MISSION: Bridging AI and real-world problems
+    CURRENT PROJECT: Smart Policing AI 🚔
+    NEXT GOAL: Full-stack AI applications
 
 </td>
 <td align="center" width="50%">
 
 ### 🎯 **The Innovator**
-```python
-class Harini:
-    def __init__(self):
-        self.location = "India 🇮🇳"
-        self.mindset = "Growth-oriented"
-        self.believes_in = "Code with purpose"
-        self.drives_by = "Impact over perfection"
+
+        LOCATION = India 🇮🇳
+        MINDSET= Growth-oriented
+        BELIEVES IN = Code with purpose
+        DRIVES BY = Impact over perfection
     
-    def current_focus(self):
-        return ["AI Ethics", "User Experience", 
-                "Scalable Solutions"]
-```
+    CURRENT FOCUS= "AI Ethics", "User Experience", 
+                "Scalable Solutions"
+
 
 </td>
 </tr>
