@@ -133,12 +133,12 @@
 
 ### Frontend Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
 </p>
 
 ### Backend & Database
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ### AI/ML & Data Science
