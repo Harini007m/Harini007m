@@ -197,6 +197,5 @@
 ---
 
 <div align="center">
-  <h3>"Code is poetry written in logic"</h3>
   <p><i>Always learning, always growing, always coding!</i></p>
 </div>
