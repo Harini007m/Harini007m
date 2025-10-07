@@ -17,13 +17,14 @@
 ```javascript
 
     Role: Frontend Developer
-    Current Position: Intern @ IPS Tech Community, KGISL
-    currentProject: Smart Policing AI 
+    CurrentPosition: Intern @ IPS Tech Community, KGISL
+    Current Project: Smart Policing AI 
     Learning: MERN Stack, AI/ML, Cloud & DevOps
-    Collaboration: Open to Frontend & AI/ML Projects
-    Ask Me About: Python, AI Ethics, User Experience
+    Collaboration:Open to Frontend & AI/ML Projects
+    AskMeAbout: Python, AI Ethics, User Experience
     Contact: harinimgb@gmail.com
     Philosophy: Code with purpose, Impact over perfection
+
 ```
 
 <br>
@@ -88,8 +89,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -110,8 +109,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harini007m&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harini007m&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=harini007m&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=harini007m&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=FFFFFF"/>
 </div>
 
 <div align="center">
