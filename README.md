@@ -120,9 +120,9 @@
   <img src="https://streak-stats.demolab.com?user=harini007m&theme=tokyonight&hide_border=true&background=0D1117&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7" alt="GitHub Streak" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=harini007m&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
+</div> -->
 
 <br>
 
