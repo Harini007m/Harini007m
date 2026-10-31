@@ -22,7 +22,7 @@
 
 | | |
 |---|---|
-| **Currently Working On** | Cloud-Based projects |
+| **Currently Working On** | Cloud-Based and Full-Stack projects |
 | **Currently Learning** | Preparing for Cloud Practitioner |
 | **Looking to Collaborate** | Interesting full-stack and cloud & devops projects |
 | **Looking for Help With** | DevOps |
